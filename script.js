@@ -1,7 +1,7 @@
 // Initialize the count of filled goals to zero
 let countGoalsFilled = 0;
 
-const completionMsg = ['Raise the bar by completing your goals.', 'Well begun is half done!', 'Just a step away, keep going!', 'Whoa! You just completed all the goals, time for chill :)'];
+const completionMsg = ['Raise the bar by completing your goals.', 'Well begun is half done!', 'Just a step away, keep going!', 'You just completed all the goals, time for chill.'];
 
 // Get all elements with the 'svg' class and store them as an array
 const radioBtn = [...document.querySelectorAll('.svg')];
