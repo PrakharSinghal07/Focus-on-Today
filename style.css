@@ -193,6 +193,10 @@ span{
     .card-completion-bar-status p{
         visibility: hidden;
     }
+    .card-todo input{
+        margin-left: 10px;
+
+    }
 }
 @media (max-width: 859px){
     html{
